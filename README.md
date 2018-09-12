@@ -11,3 +11,8 @@ I'm fine, thank u. hahaha
 
 # test C
 啦啦啦
+```perl
+#!/usr/bin/perl
+use strict;
+use warnings;
+```
