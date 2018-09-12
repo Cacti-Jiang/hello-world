@@ -16,3 +16,5 @@ I'm fine, thank u. hahaha
 use strict;
 use warnings;
 ```
+# Add a photo
+![image](https://github.com/Cacti-Jiang/hello-world/blob/master/image/QQ%E5%9B%BE%E7%89%8720180912093509.jpg)
