@@ -18,3 +18,6 @@ use warnings;
 ```
 # Add a photo
 <img src="https://github.com/Cacti-Jiang/hello-world/blob/master/image/QQ%E5%9B%BE%E7%89%8720180912093509.jpg" width = "200" height = "200" alt="头像" align=center />
+
+# Dependencies
+DoubletFinder (https://github.com/chris-mcginnis-ucsf/DoubletFinder)
