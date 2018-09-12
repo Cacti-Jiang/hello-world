@@ -1,9 +1,9 @@
 # hello-world
 Just another repository
 
-Good morning~
-Nice to see you
-How are you
+Good morning~  
+Nice to see you  
+How are you  
 I'm fine, thank u. hahaha
 
 # add by sublime txt B
@@ -22,7 +22,8 @@ use warnings;
 # Dependencies
 DoubletFinder (https://github.com/chris-mcginnis-ucsf/DoubletFinder)
 
-Good morning~
-Nice to see you
-How are you
-I'm fine, thank u. hahaha
+● Good morning~  
+● Nice to see you  
+● How are you  
+● I'm fine, thank u. hahaha  
+
