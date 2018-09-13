@@ -27,3 +27,10 @@ DoubletFinder (https://github.com/chris-mcginnis-ucsf/DoubletFinder)
 ● How are you  
 ● I'm fine, thank u. hahaha  
 
+# Usage
+## Parameters
+```
+--parA aaaaa
+--parB bbbbb
+--parC ccccc
+```
